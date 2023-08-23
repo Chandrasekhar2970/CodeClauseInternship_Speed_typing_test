@@ -1,0 +1,6 @@
+This code creates a simple speed typing test game.
+It selects a random text from the given text file.
+Displays it to the user and measures the time taken for the user to type the word.
+Calculate the speed of their typing speed in characters per minute.
+This is another sentence that you need to type fast.
+Python is awesome. C is ok.
